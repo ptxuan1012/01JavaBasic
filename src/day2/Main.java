@@ -7,7 +7,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		//doExe1();
 		//doExe2();
-		//doExe3();
+		doExe3();
 		//doExe4();	
 
 		
