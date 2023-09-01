@@ -5,7 +5,7 @@ public static void main(String [] args) {
 	//doExe1();
 	//doExe2();
 	//doExe3();
-	doExe6();
+	doExe9();
 }
 public static void doExe1() {
 	DayWeek.isDayWeek();
@@ -22,7 +22,14 @@ public static void doExe4() {
 public static void doExe5() {
 	HarmonicSum.harmoicSum1();
 }
-public static void doExe6() {
-	SquareBoard.squareBoard();
+public static void doExe7() {
+	ForandLoop.squareBoard();
+}
+public static void doExe8() {
+	ForandLoop.checkerBoard();
+}
+
+public static void doExe9() {
+	FindHelloWord.finHelloWord("Herllo Wor");
 }
 }
